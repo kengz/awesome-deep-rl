@@ -34,7 +34,6 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - [Facebook Habitat](https://github.com/facebookresearch/habitat-api) - A modular high-level library to train embodied AI agents across a variety of tasks, environments, and simulators.
 - [Facebook House3D](https://github.com/facebookresearch/House3D) - A Rich and Realistic 3D Environment.
 - [Facebook natural_rl_environment](https://github.com/facebookresearch/natural_rl_environment) - natural signal Atari environments, introduced in the paper Natural Environment Benchmarks for Reinforcement Learning.
-- [Gibson Environments](https://github.com/StanfordVL/GibsonEnv) - Real-World Perception for Embodied Agents.
 - [Google Research Football](https://github.com/google-research/football) - An RL environment based on open-source game Gameplay Football.
 - [GVGAI Gym](https://github.com/rubenrtorrado/GVGAI_GYM) - An OpenAI Gym environment for games written in the Video Game Description Language, including the Generic Video Game Competition framework.
 - [gym-doom](https://github.com/ppaquette/gym-doom) - Doom environments based on VizDoom.
@@ -66,6 +65,7 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - [pybullet-gym](https://github.com/benelot/pybullet-gym) - Open-source implementations of OpenAI Gym MuJoCo environments for use with the OpenAI Gym Reinforcement Learning Research Platform
 - [RLTrader](https://github.com/notadamking/RLTrader) - A cryptocurrency trading environment using deep reinforcement learning and OpenAI's gym.
 - [rocket-lander](https://github.com/arex18/rocket-lander) - SpaceX Falcon 9 Box2D continuous-action simulation with traditional and AI controllers.
+- [Stanford Gibson Environments](https://github.com/StanfordVL/GibsonEnv) - Real-World Perception for Embodied Agents.
 - [Stanford osim-rl](https://github.com/stanfordnmbl/osim-rl) - Reinforcement learning environments with musculoskeletal models.
 - [Unity ML-Agents Toolkit](https://github.com/Unity-Technologies/ml-agents) - Unity Machine Learning Agents Toolkit.
 - [UnityObstableTower](https://github.com/Unity-Technologies/obstacle-tower-env) - A procedurally generated environment consisting of multiple floors to be solved by a learning agent.
