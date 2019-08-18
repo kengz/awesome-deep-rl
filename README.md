@@ -103,10 +103,13 @@ A curated list of awesome Deep Reinforcement Learning resources.
 
 ## Competitions
 
-- [Flatland Challenge](https://www.aicrowd.com/challenges/flatland-challenge)
+- [AWS DeepRacer League 2019](https://aws.amazon.com/deepracer/league/)
+- [Flatland Challenge 2019](https://www.aicrowd.com/challenges/flatland-challenge)
 - [NeurIPS 2019: Animal-AI Olympics](http://animalaiolympics.com/)
+- [NeurIPS 2019: Game of Drones](https://www.microsoft.com/en-us/research/academic-program/game-of-drones-competition-at-neurips-2019/)
 - [NeurIPS 2019: Learn to Move - Walk Around](https://www.aicrowd.com/challenges/neurips-2019-learning-to-move-walk-around)
 - [NeurIPS 2019: MineRL Competition](http://minerl.io/competition/)
+- [NeurIPS 2019: Reconnaissance Blind Chess](https://rbc.jhuapl.edu/)
 - [NeurIPS 2019: Robot open-Ended Autonomous Learning](https://www.aicrowd.com/challenges/robot-open-ended-autonomous-learning-real)
 - [Unity Obstacle Tower Challenge 2019](https://blogs.unity3d.com/2019/01/28/obstacle-tower-challenge-test-the-limits-of-intelligence-systems/)
 
