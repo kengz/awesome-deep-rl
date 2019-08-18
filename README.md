@@ -10,6 +10,7 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - [Timeline](#timeline)
 - [Books](#books)
 - [Tutorials](#tutorials)
+- [Blog](#blogs)
 
 ## Libraries
 
@@ -173,3 +174,18 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - [MorvanZhou/Reinforcement Learning Methods and Tutorials](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow)
 - [OpenAI Spinning Up](https://github.com/openai/spinningup)
 - [Sergey Levine CS294 Deep Reinforcement Learning Fall 2017](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/index.html)
+
+## Blogs
+
+-   [Andrew Karpathy](http://karpathy.github.io/)
+-   [Berkeley AI Research](https://bair.berkeley.edu/blog/)
+-   [Chris Olah](https://colah.github.io/)
+-   [David Ha's blog](http://blog.otoro.net/)
+-   [DeepMind](https://deepmind.com/blog)
+-   [Distill](https://distill.pub)
+-   [Facebook AI](https://ai.facebook.com/blog/)
+-   [Google AI](https://ai.googleblog.com/)
+-   [Matthew Rahtz](http://amid.fish/)
+-   [OpenAI](https://openai.com/blog/)
+-   [The Gradient](https://thegradient.pub/)
+-   [Uber AI](https://eng.uber.com/category/articles/ai/)
