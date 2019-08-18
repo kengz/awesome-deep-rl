@@ -39,11 +39,12 @@ A curated list of awesome Deep Reinforcement Learning resources.
 
 ## Benchmarks
 
+- [DeepMind bsuite](https://github.com/deepmind/bsuite/tree/master/bsuite)
 - [OpenAI Baselines](https://github.com/openai/baselines#benchmarks)
 - [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/spinningup/bench.html)
 - [rl-baselines-zoo](https://github.com/araffin/rl-baselines-zoo/blob/master/benchmark.md)
 - [SLM Lab](https://github.com/kengz/SLM-Lab/blob/master/BENCHMARK.md)
-- [vel](https://blog.millionintegrals.com/vel-pytorch-meets-baselines/)
+- [vel](https://blog.millionintegrals.com/vel-pytorch-meets-baselines)
 
 ## Environments
 
