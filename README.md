@@ -5,7 +5,6 @@ A curated list of awesome Deep Reinforcement Learning resources.
 
 - [Libraries](#libraries)
 - [Benchmarks](#benchmarks)
-- [Algorithms](#algorithms)
 - [Environments](#environments)
 - [Competitions](#competitions)
 - [Timeline](#timeline)
@@ -45,8 +44,6 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - [rl-baselines-zoo](https://github.com/araffin/rl-baselines-zoo/blob/master/benchmark.md)
 - [SLM Lab](https://github.com/kengz/SLM-Lab/blob/master/BENCHMARK.md)
 - [vel](https://blog.millionintegrals.com/vel-pytorch-meets-baselines/)
-
-## Algorithms
 
 ## Environments
 
@@ -103,6 +100,13 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - [VizDoom](https://github.com/mwydmuch/ViZDoom) - Doom-based AI Research Platform for Reinforcement Learning from Raw Visual Information.
 
 ## Competitions
+
+- [Flatland Challenge](https://www.aicrowd.com/challenges/flatland-challenge)
+- [NeurIPS 2019: Animal-AI Olympics](http://animalaiolympics.com/)
+- [NeurIPS 2019: Learn to Move - Walk Around](https://www.aicrowd.com/challenges/neurips-2019-learning-to-move-walk-around)
+- [NeurIPS 2019: MineRL Competition](http://minerl.io/competition/)
+- [NeurIPS 2019: Robot open-Ended Autonomous Learning](https://www.aicrowd.com/challenges/robot-open-ended-autonomous-learning-real)
+- [Unity Obstacle Tower Challenge 2019](https://blogs.unity3d.com/2019/01/28/obstacle-tower-challenge-test-the-limits-of-intelligence-systems/)
 
 ## Timeline
 
