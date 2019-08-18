@@ -14,7 +14,37 @@ A curated list of awesome Deep Reinforcement Learning resources.
 
 ## Libraries
 
+- [Berkeley Ray RLLib](https://github.com/ray-project/ray) - An open-source library for reinforcement learning that offers both high scalability and a unified API for a variety of applications.
+- [Berkeley Softlearning](https://github.com/rail-berkeley/softlearning) - A reinforcement learning framework for training maximum entropy policies in continuous domains.
+- [ChainerRL](https://github.com/chainer/chainerrl) - A deep reinforcement learning library built on top of Chainer.
+- [DeepMind TRFL](https://github.com/deepmind/trfl) - TensorFlow Reinforcement Learning.
+- [DeepRL](https://github.com/ShangtongZhang/DeepRL) - Modularized Implementation of Deep RL Algorithms in PyTorch.
+- [Facebook ELF](https://github.com/pytorch/ELF) - A platform for game research with AlphaGoZero/AlphaZero reimplementation.
+- [Facebook Horizon](https://github.com/facebookresearch/Horizon) - A platform for Applied Reinforcement Learning.
+- [garage](https://github.com/rlworkgroup/garage) - A toolkit for reproducible reinforcement learning research.
+- [Google Dopamine](https://github.com/google/dopamine) - A research framework for fast prototyping of reinforcement learning algorithms.
+- [Google TF-Agents](https://github.com/tensorflow/agents) - TF-Agents is a library for Reinforcement Learning in TensorFlow.
+- [MAgent](https://github.com/geek-ai/MAgent) - A Platform for Many-agent Reinforcement Learning.
+- [NervanaSystems coach](https://github.com/NervanaSystems/coach) - Reinforcement Learning Coach by Intel AI Lab.
+- [OpenAI Baselines](https://github.com/openai/baselines) - High-quality implementations of reinforcement learning algorithms.
+- [pytorch-a2c-ppo-acktr-gail](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail) - PyTorch implementation of Advantage Actor Critic (A2C), Proximal Policy Optimization (PPO), Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation (ACKTR) and Generative Adversarial Imitation Learning (GAIL).
+- [pytorch-rl](https://github.com/navneet-nmk/pytorch-rl) - Model-free deep reinforcement learning algorithms implemented in Pytorch.
+- [RLgraph](https://github.com/rlgraph/rlgraph) - Modular computation graphs for deep reinforcement learning.
+- [RLkit](https://github.com/vitchyr/rlkit) - Reinforcement learning framework and algorithms implemented in PyTorch.
+- [SLM Lab](https://github.com/kengz/SLM-Lab) - Modular Deep Reinforcement Learning framework in PyTorch.
+- [Stable Baselines](https://github.com/hill-a/stable-baselines) - A fork of OpenAI Baselines, implementations of reinforcement learning algorithms.
+- [TensorForce](https://github.com/tensorforce/tensorforce) - A TensorFlow library for applied reinforcement learning.
+- [Unity ML-Agents Toolkit](https://github.com/Unity-Technologies/ml-agents) - Unity Machine Learning Agents Toolkit.
+- [vel](https://github.com/MillionIntegrals/vel) - Bring velocity to deep-learning research.
+- [reaver](https://github.com/inoryy/reaver) - A modular deep reinforcement learning framework with a focus on various StarCraft II based tasks.
+
 ## Benchmarks
+
+- [OpenAI Baselines](https://github.com/openai/baselines#benchmarks)
+- [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/spinningup/bench.html)
+- [rl-baselines-zoo](https://github.com/araffin/rl-baselines-zoo/blob/master/benchmark.md)
+- [SLM Lab](https://github.com/kengz/SLM-Lab/blob/master/BENCHMARK.md)
+- [vel](https://blog.millionintegrals.com/vel-pytorch-meets-baselines/)
 
 ## Algorithms
 
@@ -63,6 +93,7 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - [Personae](https://github.com/Ceruleanacg/Personae) - RL & SL Methods and Envs For Quantitative Trading.
 - [Pommerman](https://github.com/MultiAgentLearning/playground) - A clone of Bomberman built for AI research.
 - [pybullet-gym](https://github.com/benelot/pybullet-gym) - Open-source implementations of OpenAI Gym MuJoCo environments for use with the OpenAI Gym Reinforcement Learning Research Platform
+- [PyGame Learning Environment](https://github.com/ntasfi/PyGame-Learning-Environment) - Reinforcement Learning Environment in Python.
 - [RLTrader](https://github.com/notadamking/RLTrader) - A cryptocurrency trading environment using deep reinforcement learning and OpenAI's gym.
 - [rocket-lander](https://github.com/arex18/rocket-lander) - SpaceX Falcon 9 Box2D continuous-action simulation with traditional and AI controllers.
 - [Stanford Gibson Environments](https://github.com/StanfordVL/GibsonEnv) - Real-World Perception for Embodied Agents.
@@ -77,4 +108,18 @@ A curated list of awesome Deep Reinforcement Learning resources.
 
 ## Books
 
+- [An Introduction to Deep Reinforcement Learning. *Vincent Francois-Lavet, Peter Henderson, Riashat Islam*](https://www.amazon.com/Introduction-Reinforcement-Learning-Foundations-Machine/dp/1680835386)
+- [Reinforcement Learning: An Introduction. *Sutton & Barto*](https://www.amazon.com/dp/0262039249/ref=cm_sw_r_tw_dp_U_x_t0kwDb34GTGSJ)
+
 ## Tutorials
+
+- [Arthur Juliani Simple Reinforcement Learning in Tensorflow Series](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
+- [David Silver UCL Course on RL 2015](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+- [Deep RL Bootcamp 2017](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+- [DeepMind UCL Deep RL Course 2018](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+- [dennybritz/reinforcement-learning](https://github.com/dennybritz/reinforcement-learning)
+- [higgsfield/RL-Adventure-2](https://github.com/higgsfield/RL-Adventure-2)
+- [higgsfield/RL-Adventure](https://github.com/higgsfield/RL-Adventure)
+- [MorvanZhou/Reinforcement Learning Methods and Tutorials](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow)
+- [OpenAI Spinning Up](https://github.com/openai/spinningup)
+- [Sergey Levine CS294 Deep Reinforcement Learning Fall 2017](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/index.html)
