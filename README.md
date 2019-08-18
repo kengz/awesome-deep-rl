@@ -161,6 +161,7 @@ A curated list of awesome Deep Reinforcement Learning resources.
 
 ## Tutorials
 
+- [Andrew Karpathy Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
 - [Arthur Juliani Simple Reinforcement Learning in Tensorflow Series](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
 - [David Silver UCL Course on RL 2015](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 - [Deep RL Bootcamp 2017](https://sites.google.com/view/deep-rl-bootcamp/lectures)
