@@ -54,6 +54,7 @@ A curated list of awesome Deep Reinforcement Learning resources.
 
 - [AI2-THOR](https://github.com/allenai/ai2thor) - A near photo-realistic interactable framework for AI agents.
 - [Animal-AI Olympics](https://github.com/beyretb/AnimalAI-Olympics) - An AI competition with tests inspired by animal cognition.
+- [Berkeley rl-generalization](https://github.com/sunblaze-ucb/rl-generalization) - Modifiable OpenAI Gym environments for studying generalization in RL.
 - [BTGym](https://github.com/Kismuz/btgym) - Scalable event-driven RL-friendly backtesting library. Build on top of Backtrader with OpenAI Gym environment API.
 - [Carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research.
 - [CuLE](https://github.com/NVlabs/cule) - A CUDA port of the Atari Learning Environment (ALE).
@@ -187,7 +188,7 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - [Andrew Karpathy](http://karpathy.github.io/)
 - [Berkeley AI Research](https://bair.berkeley.edu/blog/)
 - [Chris Olah](https://colah.github.io/)
-- [David Ha's blog](http://blog.otoro.net/)
+- [David Ha](http://blog.otoro.net/)
 - [DeepMind](https://deepmind.com/blog)
 - [Distill](https://distill.pub)
 - [Facebook AI](https://ai.facebook.com/blog/)
