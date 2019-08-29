@@ -18,6 +18,7 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - [Berkeley Softlearning](https://github.com/rail-berkeley/softlearning) - A reinforcement learning framework for training maximum entropy policies in continuous domains.
 - [ChainerRL](https://github.com/chainer/chainerrl) - A deep reinforcement learning library built on top of Chainer.
 - [DeepMind TRFL](https://github.com/deepmind/trfl) - TensorFlow Reinforcement Learning.
+- [DeepMind OpenSpiel](https://github.com/deepmind/open_spiel) - A collection of environments and algorithms for research in general reinforcement learning and search/planning in games.
 - [DeepRL](https://github.com/ShangtongZhang/DeepRL) - Modularized Implementation of Deep RL Algorithms in PyTorch.
 - [Facebook ELF](https://github.com/pytorch/ELF) - A platform for game research with AlphaGoZero/AlphaZero reimplementation.
 - [Facebook Horizon](https://github.com/facebookresearch/Horizon) - A platform for Applied Reinforcement Learning.
