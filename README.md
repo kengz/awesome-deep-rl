@@ -79,6 +79,7 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - [home-platform](https://github.com/HoME-Platform/home-platform) - A platform for artificial agents to learn from vision, audio, semantics, physics, and interaction with objects and other agents, all within a realistic context
 - [ma-gym](https://github.com/koulanurag/ma-gym) - A collection of multi agent environments based on OpenAI gym.
 - [mazelab](https://github.com/zuoxingdong/mazelab) - A customizable framework to create maze and gridworld environments.
+- [Meta-World](https://github.com/rlworkgroup/metaworld) - An open source robotics benchmark for meta- and multi-task reinforcement learning.
 - [Microsoft AirSim](https://github.com/Microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research.
 - [Microsoft Jericho](https://github.com/microsoft/jericho) - A learning environment for man-made Interactive Fiction games.
 - [Microsoft Malmö](https://github.com/Microsoft/malmo) - A platform for Artificial Intelligence experimentation and research built on top of Minecraft.
