@@ -167,8 +167,9 @@ A curated list of awesome Deep Reinforcement Learning resources.
 
 ## Books
 
-- [An Introduction to Deep Reinforcement Learning. *Vincent Francois-Lavet, Peter Henderson, Riashat Islam.*](https://www.amazon.com/Introduction-Reinforcement-Learning-Foundations-Machine/dp/1680835386)
-- [Reinforcement Learning: An Introduction. *Sutton & Barto.*](https://www.amazon.com/dp/0262039249/ref=cm_sw_r_tw_dp_U_x_t0kwDb34GTGSJ)
+- [An Introduction to Deep Reinforcement Learning. *Francois-Lavet et. al.*](https://www.amazon.com/dp/1680835386)
+- [Foundations of Deep Reinforcement Learning. *Graesser & Keng*](https://www.amazon.com/dp/0135172381)
+- [Reinforcement Learning: An Introduction. *Sutton & Barto.*](https://www.amazon.com/dp/0262039249)
 
 ## Tutorials
 
