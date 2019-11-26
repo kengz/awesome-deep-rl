@@ -95,10 +95,12 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - [OpenAI Neural MMO](https://github.com/openai/neural-mmo) - A Massively Multiagent Game Environment.
 - [OpenAI Roboschool](https://github.com/openai/roboschool) - Open-source software for robot simulation, integrated with OpenAI Gym.
 - [OpenAI RoboSumo](https://github.com/openai/robosumo) - A set of competitive multi-agent environments used in the paper Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments.
+- [OpenAI Safety Gym](https://github.com/openai/safety-gym) - Tools for accelerating safe exploration research.
 - [Personae](https://github.com/Ceruleanacg/Personae) - RL & SL Methods and Envs For Quantitative Trading.
 - [Pommerman](https://github.com/MultiAgentLearning/playground) - A clone of Bomberman built for AI research.
 - [pybullet-gym](https://github.com/benelot/pybullet-gym) - Open-source implementations of OpenAI Gym MuJoCo environments for use with the OpenAI Gym Reinforcement Learning Research Platform
 - [PyGame Learning Environment](https://github.com/ntasfi/PyGame-Learning-Environment) - Reinforcement Learning Environment in Python.
+- [RLBench](https://github.com/stepjam/RLBench) - A large-scale benchmark and learning environment.
 - [RLTrader](https://github.com/notadamking/RLTrader) - A cryptocurrency trading environment using deep reinforcement learning and OpenAI's gym.
 - [rocket-lander](https://github.com/arex18/rocket-lander) - SpaceX Falcon 9 Box2D continuous-action simulation with traditional and AI controllers.
 - [Stanford Gibson Environments](https://github.com/StanfordVL/GibsonEnv) - Real-World Perception for Embodied Agents.
