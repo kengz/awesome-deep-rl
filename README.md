@@ -102,6 +102,7 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - [PyGame Learning Environment](https://github.com/ntasfi/PyGame-Learning-Environment) - Reinforcement Learning Environment in Python.
 - [RLBench](https://github.com/stepjam/RLBench) - A large-scale benchmark and learning environment.
 - [RLTrader](https://github.com/notadamking/RLTrader) - A cryptocurrency trading environment using deep reinforcement learning and OpenAI's gym.
+- [RoboNet](https://blog.ml.cmu.edu/2019/11/26/robonet/) - A Dataset for Large-Scale Multi-Robot Learning.
 - [rocket-lander](https://github.com/arex18/rocket-lander) - SpaceX Falcon 9 Box2D continuous-action simulation with traditional and AI controllers.
 - [Stanford Gibson Environments](https://github.com/StanfordVL/GibsonEnv) - Real-World Perception for Embodied Agents.
 - [Stanford osim-rl](https://github.com/stanfordnmbl/osim-rl) - Reinforcement learning environments with musculoskeletal models.
