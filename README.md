@@ -4,7 +4,7 @@ A curated list of awesome Deep Reinforcement Learning resources.
 ## Contents
 
 - [Libraries](#libraries)
-- [Benchmarks](#benchmarks)
+- [Benchmark Results](#benchmark-results)
 - [Environments](#environments)
 - [Competitions](#competitions)
 - [Timeline](#timeline)
@@ -16,6 +16,7 @@ A curated list of awesome Deep Reinforcement Learning resources.
 
 - [Berkeley Ray RLLib](https://github.com/ray-project/ray) - An open-source library for reinforcement learning that offers both high scalability and a unified API for a variety of applications.
 - [Berkeley Softlearning](https://github.com/rail-berkeley/softlearning) - A reinforcement learning framework for training maximum entropy policies in continuous domains.
+- [Catalyst](https://github.com/catalyst-team/catalyst) - Accelerated DL & RL.
 - [ChainerRL](https://github.com/chainer/chainerrl) - A deep reinforcement learning library built on top of Chainer.
 - [DeepMind OpenSpiel](https://github.com/deepmind/open_spiel) - A collection of environments and algorithms for research in general reinforcement learning and search/planning in games.
 - [DeepMind TRFL](https://github.com/deepmind/trfl) - TensorFlow Reinforcement Learning.
@@ -32,6 +33,7 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - [pytorch-rl](https://github.com/navneet-nmk/pytorch-rl) - Model-free deep reinforcement learning algorithms implemented in Pytorch.
 - [RLgraph](https://github.com/rlgraph/rlgraph) - Modular computation graphs for deep reinforcement learning.
 - [RLkit](https://github.com/vitchyr/rlkit) - Reinforcement learning framework and algorithms implemented in PyTorch.
+- [rlpyt](https://github.com/astooke/rlpyt) - Reinforcement Learning in PyTorch.
 - [SLM Lab](https://github.com/kengz/SLM-Lab) - Modular Deep Reinforcement Learning framework in PyTorch.
 - [Stable Baselines](https://github.com/hill-a/stable-baselines) - A fork of OpenAI Baselines, implementations of reinforcement learning algorithms.
 - [TensorForce](https://github.com/tensorforce/tensorforce) - A TensorFlow library for applied reinforcement learning.
@@ -39,7 +41,7 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - [vel](https://github.com/MillionIntegrals/vel) - Bring velocity to deep-learning research.
 - [reaver](https://github.com/inoryy/reaver) - A modular deep reinforcement learning framework with a focus on various StarCraft II based tasks.
 
-## Benchmarks
+## Benchmark Results
 
 - [DeepMind bsuite](https://github.com/deepmind/bsuite/tree/master/bsuite)
 - [OpenAI baselines-results](https://github.com/openai/baselines-results)
@@ -93,6 +95,7 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - [OpenAI Gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 - [OpenAI Multi-Agent Particle Environment](https://github.com/openai/multiagent-particle-envs) - A simple multi-agent particle world with a continuous observation and discrete action space, along with some basic simulated physics.
 - [OpenAI Neural MMO](https://github.com/openai/neural-mmo) - A Massively Multiagent Game Environment.
+- [OpenAI Procgen Benchmark](https://github.com/openai/procgen) - Procedurally Generated Game-Like Gym Environments.
 - [OpenAI Roboschool](https://github.com/openai/roboschool) - Open-source software for robot simulation, integrated with OpenAI Gym.
 - [OpenAI RoboSumo](https://github.com/openai/robosumo) - A set of competitive multi-agent environments used in the paper Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments.
 - [OpenAI Safety Gym](https://github.com/openai/safety-gym) - Tools for accelerating safe exploration research.
