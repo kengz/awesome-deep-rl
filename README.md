@@ -21,12 +21,14 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - [DeepMind OpenSpiel](https://github.com/deepmind/open_spiel) - A collection of environments and algorithms for research in general reinforcement learning and search/planning in games.
 - [DeepMind TRFL](https://github.com/deepmind/trfl) - TensorFlow Reinforcement Learning.
 - [DeepRL](https://github.com/ShangtongZhang/DeepRL) - Modularized Implementation of Deep RL Algorithms in PyTorch.
+- [DeepX machina](https://github.com/DeepX-inc/machina) - A library for real-world Deep Reinforcement Learning which is built on top of PyTorch.
 - [Facebook ELF](https://github.com/pytorch/ELF) - A platform for game research with AlphaGoZero/AlphaZero reimplementation.
-- [Facebook Horizon](https://github.com/facebookresearch/Horizon) - A platform for Applied Reinforcement Learning.
+- [Facebook ReAgent](https://github.com/facebookresearch/ReAgent) - A platform for Reasoning systems (Reinforcement Learning, Contextual Bandits, etc.)
 - [garage](https://github.com/rlworkgroup/garage) - A toolkit for reproducible reinforcement learning research.
 - [Google Dopamine](https://github.com/google/dopamine) - A research framework for fast prototyping of reinforcement learning algorithms.
 - [Google TF-Agents](https://github.com/tensorflow/agents) - TF-Agents is a library for Reinforcement Learning in TensorFlow.
 - [MAgent](https://github.com/geek-ai/MAgent) - A Platform for Many-agent Reinforcement Learning.
+- [MushroomRL](https://github.com/MushroomRL/mushroom-rl) - Python library for Reinforcement Learning experiments.
 - [NervanaSystems coach](https://github.com/NervanaSystems/coach) - Reinforcement Learning Coach by Intel AI Lab.
 - [OpenAI Baselines](https://github.com/openai/baselines) - High-quality implementations of reinforcement learning algorithms.
 - [pytorch-a2c-ppo-acktr-gail](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail) - PyTorch implementation of Advantage Actor Critic (A2C), Proximal Policy Optimization (PPO), Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation (ACKTR) and Generative Adversarial Imitation Learning (GAIL).
@@ -37,6 +39,7 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - [SLM Lab](https://github.com/kengz/SLM-Lab) - Modular Deep Reinforcement Learning framework in PyTorch.
 - [Stable Baselines](https://github.com/hill-a/stable-baselines) - A fork of OpenAI Baselines, implementations of reinforcement learning algorithms.
 - [TensorForce](https://github.com/tensorforce/tensorforce) - A TensorFlow library for applied reinforcement learning.
+- [UMass Amherst Autonomous Learning Library](https://github.com/cpnota/autonomous-learning-library) - A PyTorch library for building deep reinforcement learning agents.
 - [Unity ML-Agents Toolkit](https://github.com/Unity-Technologies/ml-agents) - Unity Machine Learning Agents Toolkit.
 - [vel](https://github.com/MillionIntegrals/vel) - Bring velocity to deep-learning research.
 - [reaver](https://github.com/inoryy/reaver) - A modular deep reinforcement learning framework with a focus on various StarCraft II based tasks.
@@ -117,6 +120,7 @@ A curated list of awesome Deep Reinforcement Learning resources.
 
 - [AWS DeepRacer League 2019](https://aws.amazon.com/deepracer/league/)
 - [Flatland Challenge 2019](https://www.aicrowd.com/challenges/flatland-challenge)
+- [Kaggle Connect X Competition 2020](https://www.kaggle.com/c/connectx)
 - [NeurIPS 2019: Animal-AI Olympics](http://animalaiolympics.com/)
 - [NeurIPS 2019: Game of Drones](https://www.microsoft.com/en-us/research/academic-program/game-of-drones-competition-at-neurips-2019/)
 - [NeurIPS 2019: Learn to Move - Walk Around](https://www.aicrowd.com/challenges/neurips-2019-learning-to-move-walk-around)
@@ -173,14 +177,19 @@ A curated list of awesome Deep Reinforcement Learning resources.
 
 ## Books
 
+- [Algorithms for Reinforcement Learning. *Szepesvari et. al.*](https://www.amazon.com/Algorithms-Reinforcement-Learning-Csaba-Szepesvari/dp/1608454924)
 - [An Introduction to Deep Reinforcement Learning. *Francois-Lavet et. al.*](https://www.amazon.com/dp/1680835386)
+- [Deep Reinforcement Learning Hands-On. *Lapan*](https://www.amazon.com/Deep-Reinforcement-Learning-Hands-optimisation/dp/1838826998)
+- [Deep Reinforcement Learning in Action. *Zai & Brown*](https://www.amazon.com/Deep-Reinforcement-Learning-Action-Alexander/dp/1617295434)
 - [Foundations of Deep Reinforcement Learning. *Graesser & Keng*](https://www.amazon.com/dp/0135172381)
+- [Grokking Deep Reinforcement Learning. *Morales*](https://www.amazon.com/Grokking-Reinforcement-Learning-Miguel-Morales/dp/1617295450)
 - [Reinforcement Learning: An Introduction. *Sutton & Barto.*](https://www.amazon.com/dp/0262039249)
 
 ## Tutorials
 
 - [Andrew Karpathy Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
 - [Arthur Juliani Simple Reinforcement Learning in Tensorflow Series](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
+- [Berkeley Deep Reinforcement Learning Course](http://rail.eecs.berkeley.edu/deeprlcourse/)
 - [David Silver UCL Course on RL 2015](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 - [Deep RL Bootcamp 2017](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 - [DeepMind UCL Deep RL Course 2018](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
@@ -190,6 +199,7 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - [MorvanZhou/Reinforcement Learning Methods and Tutorials](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow)
 - [OpenAI Spinning Up](https://github.com/openai/spinningup)
 - [Sergey Levine CS294 Deep Reinforcement Learning Fall 2017](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/index.html)
+- [Udacity Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893)
 
 ## Blogs
 
