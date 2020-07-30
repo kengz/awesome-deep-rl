@@ -18,6 +18,7 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - [Berkeley Softlearning](https://github.com/rail-berkeley/softlearning) - A reinforcement learning framework for training maximum entropy policies in continuous domains.
 - [Catalyst](https://github.com/catalyst-team/catalyst) - Accelerated DL & RL.
 - [ChainerRL](https://github.com/chainer/chainerrl) - A deep reinforcement learning library built on top of Chainer.
+- [DeepMind Acme](https://github.com/deepmind/acme) - A research framework for reinforcement learning.
 - [DeepMind OpenSpiel](https://github.com/deepmind/open_spiel) - A collection of environments and algorithms for research in general reinforcement learning and search/planning in games.
 - [DeepMind TRFL](https://github.com/deepmind/trfl) - TensorFlow Reinforcement Learning.
 - [DeepRL](https://github.com/ShangtongZhang/DeepRL) - Modularized Implementation of Deep RL Algorithms in PyTorch.
@@ -69,6 +70,7 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - [DeepMind Lab](https://github.com/deepmind/lab) - A customisable 3D platform for agent-based AI research.
 - [DeepMind pycolab](https://github.com/deepmind/pycolab) - A highly-customisable gridworld game engine with some batteries included.
 - [DeepMind PySC2](https://github.com/deepmind/pysc2) - StarCraft II Learning Environment.
+- [DeepMind RL Unplugged](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) - Benchmarks for Offline Reinforcement Learning.
 - [Facebook EmbodiedQA](https://github.com/facebookresearch/EmbodiedQA) - Train embodied agents that can answer questions in environments.
 - [Facebook Habitat](https://github.com/facebookresearch/habitat-api) - A modular high-level library to train embodied AI agents across a variety of tasks, environments, and simulators.
 - [Facebook House3D](https://github.com/facebookresearch/House3D) - A Rich and Realistic 3D Environment.
@@ -129,6 +131,8 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - [NeurIPS 2019: Robot open-Ended Autonomous Learning](https://www.aicrowd.com/challenges/robot-open-ended-autonomous-learning-real)
 - [Unity Obstacle Tower Challenge 2019](https://blogs.unity3d.com/2019/01/28/obstacle-tower-challenge-test-the-limits-of-intelligence-systems/)
 
+>Check [AICrowd](https://www.aicrowd.com) for the latest list of major RL competitions
+
 ## Timeline
 
 - 1947: [Monte Carlo Sampling](http://eniacinaction.com/the-articles/3-los-alamos-bets-on-eniac-nuclear-monte-carlo-simulations-1947-8/)
@@ -171,9 +175,12 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - 2018 Jun: [Qt-Opt](https://ai.googleblog.com/2018/06/scalable-deep-reinforcement-learning.html)
 - 2018 Nov: [Go-Explore solved Montezuma’s Revenge](https://eng.uber.com/go-explore/)
 - 2018 Dec: [AlphaZero becomes the strongest player in history for chess, Go, and Shogi](https://deepmind.com/blog/article/alphazero-shedding-new-light-grand-games-chess-shogi-and-go)
-- 2018 Dec: [AlphaStar](https://deepmind.com/blog/article/alphastar-mastering-real-time-strategy-game-starcraft-ii)
 - 2019 Apr: [OpenAI Five defeated world champions at DotA 2](https://openai.com/five/)
 - 2019 May: [FTW Quake III Arena Capture the Flag](https://deepmind.com/blog/article/capture-the-flag-science)
+- 2019 Aug: [AlphaStar: Grandmaster level in StarCraft II](https://deepmind.com/blog/article/AlphaStar-Grandmaster-level-in-StarCraft-II-using-multi-agent-reinforcement-learning)
+- 2019 Sep: [Emergent Tool Use from Multi-Agent Interaction](https://openai.com/blog/emergent-tool-use/)
+- 2019 Oct: [Solving Rubik’s Cube with a Robot Hand](https://openai.com/blog/solving-rubiks-cube/)
+- 2020 Mar: [Agent57 outperforms the standard human benchmark on all 57 Atari games](https://deepmind.com/blog/article/Agent57-Outperforming-the-human-Atari-benchmark)
 
 ## Books
 
@@ -193,6 +200,7 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - [David Silver UCL Course on RL 2015](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 - [Deep RL Bootcamp 2017](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 - [DeepMind UCL Deep RL Course 2018](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+- [DeepMind Learning Resources](https://deepmind.com/learning-resources)
 - [dennybritz/reinforcement-learning](https://github.com/dennybritz/reinforcement-learning)
 - [higgsfield/RL-Adventure-2](https://github.com/higgsfield/RL-Adventure-2)
 - [higgsfield/RL-Adventure](https://github.com/higgsfield/RL-Adventure)
