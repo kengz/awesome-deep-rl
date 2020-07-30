@@ -34,6 +34,7 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - [OpenAI Baselines](https://github.com/openai/baselines) - High-quality implementations of reinforcement learning algorithms.
 - [pytorch-a2c-ppo-acktr-gail](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail) - PyTorch implementation of Advantage Actor Critic (A2C), Proximal Policy Optimization (PPO), Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation (ACKTR) and Generative Adversarial Imitation Learning (GAIL).
 - [pytorch-rl](https://github.com/navneet-nmk/pytorch-rl) - Model-free deep reinforcement learning algorithms implemented in Pytorch.
+- [reaver](https://github.com/inoryy/reaver) - A modular deep reinforcement learning framework with a focus on various StarCraft II based tasks.
 - [RLgraph](https://github.com/rlgraph/rlgraph) - Modular computation graphs for deep reinforcement learning.
 - [RLkit](https://github.com/vitchyr/rlkit) - Reinforcement learning framework and algorithms implemented in PyTorch.
 - [rlpyt](https://github.com/astooke/rlpyt) - Reinforcement Learning in PyTorch.
@@ -43,7 +44,6 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - [UMass Amherst Autonomous Learning Library](https://github.com/cpnota/autonomous-learning-library) - A PyTorch library for building deep reinforcement learning agents.
 - [Unity ML-Agents Toolkit](https://github.com/Unity-Technologies/ml-agents) - Unity Machine Learning Agents Toolkit.
 - [vel](https://github.com/MillionIntegrals/vel) - Bring velocity to deep-learning research.
-- [reaver](https://github.com/inoryy/reaver) - A modular deep reinforcement learning framework with a focus on various StarCraft II based tasks.
 
 ## Benchmark Results
 
@@ -55,6 +55,7 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - [rl-baselines-zoo](https://github.com/araffin/rl-baselines-zoo/blob/master/benchmark.md)
 - [SLM Lab](https://github.com/kengz/SLM-Lab/blob/master/BENCHMARK.md)
 - [vel](https://blog.millionintegrals.com/vel-pytorch-meets-baselines)
+- [What Matters In On-Policy Reinforcement Learning? A Large-Scale Empirical Study](https://arxiv.org/abs/2006.05990)
 - [yarlp](https://github.com/btaba/yarlp)
 
 ## Environments
