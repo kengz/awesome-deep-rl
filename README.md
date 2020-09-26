@@ -221,6 +221,7 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - [Distill](https://distill.pub)
 - [Facebook AI](https://ai.facebook.com/blog/)
 - [Google AI](https://ai.googleblog.com/)
+- [Lilian Weng](https://lilianweng.github.io/lil-log/)
 - [Matthew Rahtz](http://amid.fish/)
 - [OpenAI](https://openai.com/blog/)
 - [The Gradient](https://thegradient.pub/)
