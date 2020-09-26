@@ -219,6 +219,7 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - [David Ha](http://blog.otoro.net/)
 - [DeepMind](https://deepmind.com/blog)
 - [Distill](https://distill.pub)
+- [Eric Jang](https://blog.evjang.com)
 - [Facebook AI](https://ai.facebook.com/blog/)
 - [Google AI](https://ai.googleblog.com/)
 - [Lilian Weng](https://lilianweng.github.io/lil-log/)
