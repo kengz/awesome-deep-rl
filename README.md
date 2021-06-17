@@ -68,6 +68,7 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - [Carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research.
 - [CuLE](https://github.com/NVlabs/cule) - A CUDA port of the Atari Learning Environment (ALE).
 - [Deepdrive](https://github.com/deepdrive/deepdrive) - End-to-end simulation for self-driving cars.
+- [DeepMind AndroidEnv](https://github.com/deepmind/android_env) - A library for doing RL research on Android devices.
 - [DeepMind DM Control](https://github.com/deepmind/dm_control) - The DeepMind Control Suite and Package.
 - [DeepMind Lab](https://github.com/deepmind/lab) - A customisable 3D platform for agent-based AI research.
 - [DeepMind pycolab](https://github.com/deepmind/pycolab) - A highly-customisable gridworld game engine with some batteries included.
@@ -171,7 +172,8 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - 2017 Aug: [OpenAI DotA 2 1:1](https://openai.com/blog/more-on-dota-2/)
 - 2017 Aug: [Intrinsic Cusiority Module (ICM)](https://arxiv.org/abs/1705.05363)
 - 2017 Oct: [Rainbow](https://arxiv.org/abs/1710.02298)
-- 2017 Dec: [AlphaZero](https://arxiv.org/abs/1712.01815)
+- 2017 Oct: [AlphaGo Zero masters Go without human knowledge](https://deepmind.com/blog/article/alphago-zero-starting-scratch)
+- 2017 Dec: [AlphaZero masters Go, Chess and Shogi](https://arxiv.org/abs/1712.01815)
 - 2018 Jan: [Soft Actor-Critic](https://ai.googleblog.com/2019/01/soft-actor-critic-deep-reinforcement.html)
 - 2018 Feb: [IMPALA](https://deepmind.com/blog/article/impala-scalable-distributed-deeprl-dmlab-30)
 - 2018 Jun: [Qt-Opt](https://ai.googleblog.com/2018/06/scalable-deep-reinforcement-learning.html)
@@ -183,6 +185,8 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - 2019 Sep: [Emergent Tool Use from Multi-Agent Interaction](https://openai.com/blog/emergent-tool-use/)
 - 2019 Oct: [Solving Rubik’s Cube with a Robot Hand](https://openai.com/blog/solving-rubiks-cube/)
 - 2020 Mar: [Agent57 outperforms the standard human benchmark on all 57 Atari games](https://deepmind.com/blog/article/Agent57-Outperforming-the-human-Atari-benchmark)
+- 2020 Nov: [AlphaFold for protein folding](https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology)
+- 2020 Dec: [MuZero masters Go, chess, shogi and Atari without rules](https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules)
 
 ## Books
 
