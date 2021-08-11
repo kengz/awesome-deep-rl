@@ -187,6 +187,7 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - 2020 Mar: [Agent57 outperforms the standard human benchmark on all 57 Atari games](https://deepmind.com/blog/article/Agent57-Outperforming-the-human-Atari-benchmark)
 - 2020 Nov: [AlphaFold for protein folding](https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology)
 - 2020 Dec: [MuZero masters Go, chess, shogi and Atari without rules](https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules)
+- 2021 Aug: [Generally capable agents emerge from open-ended play](https://deepmind.com/blog/article/generally-capable-agents-emerge-from-open-ended-play)
 
 ## Books
 
