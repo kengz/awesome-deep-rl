@@ -42,6 +42,7 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - [SLM Lab](https://github.com/kengz/SLM-Lab) - Modular Deep Reinforcement Learning framework in PyTorch.
 - [Stable Baselines](https://github.com/hill-a/stable-baselines) - A fork of OpenAI Baselines, implementations of reinforcement learning algorithms.
 - [TensorForce](https://github.com/tensorforce/tensorforce) - A TensorFlow library for applied reinforcement learning.
+- [Tianshou](https://github.com/thu-ml/tianshou/) - Tianshou (天授) is a reinforcement learning platform based on pure PyTorch.
 - [UMass Amherst Autonomous Learning Library](https://github.com/cpnota/autonomous-learning-library) - A PyTorch library for building deep reinforcement learning agents.
 - [Unity ML-Agents Toolkit](https://github.com/Unity-Technologies/ml-agents) - Unity Machine Learning Agents Toolkit.
 - [vel](https://github.com/MillionIntegrals/vel) - Bring velocity to deep-learning research.
