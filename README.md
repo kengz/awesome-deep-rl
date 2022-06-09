@@ -203,7 +203,6 @@ A curated list of awesome Deep Reinforcement Learning resources.
 
 ## Tutorials
 
-- [The Hugging Face Deep Reinforcement Learning Class 🤗](https://github.com/huggingface/deep-rl-class#the-hugging-face-deep-reinforcement-learning-class-)
 - [Andrew Karpathy Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
 - [Arthur Juliani Simple Reinforcement Learning in Tensorflow Series](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
 - [Berkeley Deep Reinforcement Learning Course](http://rail.eecs.berkeley.edu/deeprlcourse/)
@@ -214,6 +213,7 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - [dennybritz/reinforcement-learning](https://github.com/dennybritz/reinforcement-learning)
 - [higgsfield/RL-Adventure-2](https://github.com/higgsfield/RL-Adventure-2)
 - [higgsfield/RL-Adventure](https://github.com/higgsfield/RL-Adventure)
+- [The Hugging Face Deep Reinforcement Learning Class 🤗](https://github.com/huggingface/deep-rl-class#the-hugging-face-deep-reinforcement-learning-class-)
 - [MorvanZhou/Reinforcement Learning Methods and Tutorials](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow)
 - [OpenAI Spinning Up](https://github.com/openai/spinningup)
 - [Sergey Levine CS294 Deep Reinforcement Learning Fall 2017](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/index.html)
