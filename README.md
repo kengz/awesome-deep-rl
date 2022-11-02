@@ -218,6 +218,7 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - [OpenAI Spinning Up](https://github.com/openai/spinningup)
 - [Sergey Levine CS294 Deep Reinforcement Learning Fall 2017](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/index.html)
 - [Udacity Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893)
+- [Reinforcement Learning Fundamental](https://www.youtube.com/playlist?list=PLzvYlJMoZ02Dxtwe-MmH4nOB5jYlMGBjr)
 
 ## Blogs
 
