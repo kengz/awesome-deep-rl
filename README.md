@@ -46,6 +46,7 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - [UMass Amherst Autonomous Learning Library](https://github.com/cpnota/autonomous-learning-library) - A PyTorch library for building deep reinforcement learning agents.
 - [Unity ML-Agents Toolkit](https://github.com/Unity-Technologies/ml-agents) - Unity Machine Learning Agents Toolkit.
 - [vel](https://github.com/MillionIntegrals/vel) - Bring velocity to deep-learning research.
+- [DI-engine](https://github.com/opendilab/DI-engine) - A generalized decision intelligence engine. It supports various Deep RL algorithms.
 
 ## Benchmark Results
 
@@ -219,6 +220,7 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - [Sergey Levine CS294 Deep Reinforcement Learning Fall 2017](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/index.html)
 - [Udacity Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893)
 - [Reinforcement Learning Fundamental](https://www.youtube.com/playlist?list=PLzvYlJMoZ02Dxtwe-MmH4nOB5jYlMGBjr)
+- [PPOxFamily: DRL Tutorial Course](https://github.com/opendilab/PPOxFamily)
 
 ## Blogs
 
