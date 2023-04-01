@@ -123,6 +123,9 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - [Unity ML-Agents Toolkit](https://github.com/Unity-Technologies/ml-agents) - Unity Machine Learning Agents Toolkit.
 - [UnityObstableTower](https://github.com/Unity-Technologies/obstacle-tower-env) - A procedurally generated environment consisting of multiple floors to be solved by a learning agent.
 - [VizDoom](https://github.com/mwydmuch/ViZDoom) - Doom-based AI Research Platform for Reinforcement Learning from Raw Visual Information.
+- [RLCard](https://github.com/datamllab/rlcard/) - A research platform for reinforcement learning in card games.
+- [DouZero](https://github.com/kwai/DouZero/) - A research platform for reinforcement learning in DouDizhu (Chinese poker).
+
 
 ## Competitions
 
