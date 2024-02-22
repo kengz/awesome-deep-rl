@@ -115,6 +115,7 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - [pybullet-gym](https://github.com/benelot/pybullet-gym) - Open-source implementations of OpenAI Gym MuJoCo environments for use with the OpenAI Gym Reinforcement Learning Research Platform
 - [PyGame Learning Environment](https://github.com/ntasfi/PyGame-Learning-Environment) - Reinforcement Learning Environment in Python.
 - [RLBench](https://github.com/stepjam/RLBench) - A large-scale benchmark and learning environment.
+- [RLGym](https://github.com/lucas-emery/rocket-league-gym) - A python API to treat the game Rocket League as an OpenAI Gym environment.
 - [RLTrader](https://github.com/notadamking/RLTrader) - A cryptocurrency trading environment using deep reinforcement learning and OpenAI's gym.
 - [RoboNet](https://blog.ml.cmu.edu/2019/11/26/robonet/) - A Dataset for Large-Scale Multi-Robot Learning.
 - [rocket-lander](https://github.com/arex18/rocket-lander) - SpaceX Falcon 9 Box2D continuous-action simulation with traditional and AI controllers.
