@@ -39,6 +39,7 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - [RLgraph](https://github.com/rlgraph/rlgraph) - Modular computation graphs for deep reinforcement learning.
 - [RLkit](https://github.com/vitchyr/rlkit) - Reinforcement learning framework and algorithms implemented in PyTorch.
 - [rlpyt](https://github.com/astooke/rlpyt) - Reinforcement Learning in PyTorch.
+- [RLtools](https://github.com/rl-tools/rl-tools) - The fastest deep reinforcement learning library for continuous control, implemented in pure, dependency-free C++ (Python bindings available as well).
 - [SLM Lab](https://github.com/kengz/SLM-Lab) - Modular Deep Reinforcement Learning framework in PyTorch.
 - [Stable Baselines](https://github.com/hill-a/stable-baselines) - A fork of OpenAI Baselines, implementations of reinforcement learning algorithms.
 - [TensorForce](https://github.com/tensorforce/tensorforce) - A TensorFlow library for applied reinforcement learning.
