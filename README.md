@@ -89,6 +89,7 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - [gym-ignition](https://github.com/robotology/gym-ignition) - Experimental OpenAI Gym environments implemented with Ignition Robotics.
 - [gym-idsgame](https://github.com/Limmen/gym-idsgame) - An Abstract Cyber Security Simulation and Markov Game for OpenAI Gym
 - [gym-super-mario](https://github.com/ppaquette/gym-super-mario) - 32 levels of original Super Mario Bros.
+- [Gym4ReaL](https://github.com/Daveonwave/gym4ReaL) - A Gymnasium-based benchmarking suite for testing reinforcement learning algorithms on real-world scenarios, including water management, energy management in microgrids, financial trading, and more.
 - [Holodeck](https://github.com/BYU-PCCL/holodeck) - High Fidelity Simulator for Reinforcement Learning and Robotics Research.
 - [home-platform](https://github.com/HoME-Platform/home-platform) - A platform for artificial agents to learn from vision, audio, semantics, physics, and interaction with objects and other agents, all within a realistic context
 - [ma-gym](https://github.com/koulanurag/ma-gym) - A collection of multi agent environments based on OpenAI gym.
