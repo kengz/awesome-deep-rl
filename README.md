@@ -14,6 +14,7 @@ A curated list of awesome Deep Reinforcement Learning resources.
 
 ## Libraries
 
+- [AgileRL](https://github.com/AgileRL/AgileRL) - A Deep Reinforcement Learning library focused on improving development by introducing RLOps - MLOps for reinforcement learning.
 - [Berkeley Ray RLLib](https://github.com/ray-project/ray) - An open-source library for reinforcement learning that offers both high scalability and a unified API for a variety of applications.
 - [Berkeley Softlearning](https://github.com/rail-berkeley/softlearning) - A reinforcement learning framework for training maximum entropy policies in continuous domains.
 - [Catalyst](https://github.com/catalyst-team/catalyst) - Accelerated DL & RL.
@@ -23,16 +24,20 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - [DeepMind TRFL](https://github.com/deepmind/trfl) - TensorFlow Reinforcement Learning.
 - [DeepRL](https://github.com/ShangtongZhang/DeepRL) - Modularized Implementation of Deep RL Algorithms in PyTorch.
 - [DeepX machina](https://github.com/DeepX-inc/machina) - A library for real-world Deep Reinforcement Learning which is built on top of PyTorch.
+- [d3rlpy](https://github.com/takuseno/d3rlpy) - An offline deep reinforcement learning library.
 - [Facebook ELF](https://github.com/pytorch/ELF) - A platform for game research with AlphaGoZero/AlphaZero reimplementation.
 - [Facebook ReAgent](https://github.com/facebookresearch/ReAgent) - A platform for Reasoning systems (Reinforcement Learning, Contextual Bandits, etc.)
 - [garage](https://github.com/rlworkgroup/garage) - A toolkit for reproducible reinforcement learning research.
 - [Google Dopamine](https://github.com/google/dopamine) - A research framework for fast prototyping of reinforcement learning algorithms.
 - [Google TF-Agents](https://github.com/tensorflow/agents) - TF-Agents is a library for Reinforcement Learning in TensorFlow.
+- [K-Scale Labs - ksim](https://github.com/kscalelabs/ksim) - A modular and easy-to-use framework for training policies in simulation.
+- [K-Scale Labs - ksim-gym](https://github.com/kscalelabs/ksim-gym) - K-Sim Gym: Making robots useful with RL. Built on top of K-Sim.
 - [MAgent](https://github.com/geek-ai/MAgent) - A Platform for Many-agent Reinforcement Learning.
 - [Maze](https://github.com/enlite-ai/maze) - Application-oriented deep reinforcement learning framework addressing real-world decision problems.
 - [MushroomRL](https://github.com/MushroomRL/mushroom-rl) - Python library for Reinforcement Learning experiments.
 - [NervanaSystems coach](https://github.com/NervanaSystems/coach) - Reinforcement Learning Coach by Intel AI Lab.
 - [OpenAI Baselines](https://github.com/openai/baselines) - High-quality implementations of reinforcement learning algorithms.
+- [OpenRL](https://github.com/OpenRL-Lab/openrl) - An open-source general reinforcement learning research framework.
 - [pytorch-a2c-ppo-acktr-gail](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail) - PyTorch implementation of Advantage Actor Critic (A2C), Proximal Policy Optimization (PPO), Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation (ACKTR) and Generative Adversarial Imitation Learning (GAIL).
 - [pytorch-rl](https://github.com/navneet-nmk/pytorch-rl) - Model-free deep reinforcement learning algorithms implemented in Pytorch.
 - [reaver](https://github.com/inoryy/reaver) - A modular deep reinforcement learning framework with a focus on various StarCraft II based tasks.
@@ -40,10 +45,12 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - [RLkit](https://github.com/vitchyr/rlkit) - Reinforcement learning framework and algorithms implemented in PyTorch.
 - [rlpyt](https://github.com/astooke/rlpyt) - Reinforcement Learning in PyTorch.
 - [RLtools](https://github.com/rl-tools/rl-tools) - The fastest deep reinforcement learning library for continuous control, implemented in pure, dependency-free C++ (Python bindings available as well).
+- [skrl](https://github.com/Toni-SM/skrl) - Modular reinforcement learning library (on PyTorch and JAX) with support for NVIDIA Isaac Gym, Omniverse Isaac Gym and Isaac Lab.
 - [SLM Lab](https://github.com/kengz/SLM-Lab) - Modular Deep Reinforcement Learning framework in PyTorch.
 - [Stable Baselines](https://github.com/hill-a/stable-baselines) - A fork of OpenAI Baselines, implementations of reinforcement learning algorithms.
 - [TensorForce](https://github.com/tensorforce/tensorforce) - A TensorFlow library for applied reinforcement learning.
 - [Tianshou](https://github.com/thu-ml/tianshou/) - Tianshou (天授) is a reinforcement learning platform based on pure PyTorch.
+- [TorchRL](https://docs.pytorch.org/rl/stable/index.html) - An open-source Reinforcement Learning (RL) library for PyTorch.
 - [UMass Amherst Autonomous Learning Library](https://github.com/cpnota/autonomous-learning-library) - A PyTorch library for building deep reinforcement learning agents.
 - [Unity ML-Agents Toolkit](https://github.com/Unity-Technologies/ml-agents) - Unity Machine Learning Agents Toolkit.
 - [vel](https://github.com/MillionIntegrals/vel) - Bring velocity to deep-learning research.
