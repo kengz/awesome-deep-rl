@@ -14,6 +14,7 @@ A curated list of awesome Deep Reinforcement Learning resources.
 
 ## Libraries
 
+- [ADK-Rust](https://github.com/zavora-ai/adk-rust) - Production-ready AI agent development kit for Rust with model-agnostic design, multiple agent types, MCP support, and built-in telemetry.
 - [AgileRL](https://github.com/AgileRL/AgileRL) - A Deep Reinforcement Learning library focused on improving development by introducing RLOps - MLOps for reinforcement learning.
 - [Berkeley Ray RLLib](https://github.com/ray-project/ray) - An open-source library for reinforcement learning that offers both high scalability and a unified API for a variety of applications.
 - [Berkeley Softlearning](https://github.com/rail-berkeley/softlearning) - A reinforcement learning framework for training maximum entropy policies in continuous domains.
