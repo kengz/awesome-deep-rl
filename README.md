@@ -55,6 +55,8 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - [Unity ML-Agents Toolkit](https://github.com/Unity-Technologies/ml-agents) - Unity Machine Learning Agents Toolkit.
 - [vel](https://github.com/MillionIntegrals/vel) - Bring velocity to deep-learning research.
 - [DI-engine](https://github.com/opendilab/DI-engine) - A generalized decision intelligence engine. It supports various Deep RL algorithms.
+- [ML-PPO](https://github.com/KeepALifeUS/ml-ppo) - Clean PyTorch implementation of Proximal Policy Optimization with GAE, parallel environments, and continuous/discrete action space support.
+- [ML-DQN](https://github.com/KeepALifeUS/ml-dqn) - Rainbow DQN implementation in PyTorch with Double DQN, Dueling architecture, Prioritized Experience Replay, and Noisy Networks.
 
 ## Benchmark Results
 
