@@ -56,6 +56,8 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - [vel](https://github.com/MillionIntegrals/vel) - Bring velocity to deep-learning research.
 - [DI-engine](https://github.com/opendilab/DI-engine) - A generalized decision intelligence engine. It supports various Deep RL algorithms.
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring and identity verification for AI agent wallets on Solana. MCP tools for scoring agent reputation before distributing rewards in multi-agent RL environments.
+
 ## Benchmark Results
 
 - [DeepMind bsuite](https://github.com/deepmind/bsuite/tree/master/bsuite)
