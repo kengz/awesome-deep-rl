@@ -72,12 +72,14 @@ A curated list of awesome Deep Reinforcement Learning resources.
 ## Environments
 
 - [AI2-THOR](https://github.com/allenai/ai2thor) - A near photo-realistic interactable framework for AI agents.
+- [Alpha Dots & Boxes](https://github.com/IlyaKhalafi/AlphaDotsAndBoxes) - An RLlib multi-agent Dots and Boxes environment with variable board sizes, graph observations, and legal-action masks.
 - [Animal-AI Olympics](https://github.com/beyretb/AnimalAI-Olympics) - An AI competition with tests inspired by animal cognition.
 - [Berkeley rl-generalization](https://github.com/sunblaze-ucb/rl-generalization) - Modifiable OpenAI Gym environments for studying generalization in RL.
 - [BTGym](https://github.com/Kismuz/btgym) - Scalable event-driven RL-friendly backtesting library. Build on top of Backtrader with OpenAI Gym environment API.
 - [Carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research.
 - [CuLE](https://github.com/NVlabs/cule) - A CUDA port of the Atari Learning Environment (ALE).
 - [Deepdrive](https://github.com/deepdrive/deepdrive) - End-to-end simulation for self-driving cars.
+- [DeepHokm](https://github.com/IlyaKhalafi/DeepHokm) - A Gymnasium environment for the partnership trick-taking card game Hokm, with configurable opponent policies and legal-action masks.
 - [DeepMind AndroidEnv](https://github.com/deepmind/android_env) - A library for doing RL research on Android devices.
 - [DeepMind DM Control](https://github.com/deepmind/dm_control) - The DeepMind Control Suite and Package.
 - [DeepMind Lab](https://github.com/deepmind/lab) - A customisable 3D platform for agent-based AI research.
