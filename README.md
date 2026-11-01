@@ -17,6 +17,7 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - [AgileRL](https://github.com/AgileRL/AgileRL) - A Deep Reinforcement Learning library focused on improving development by introducing RLOps - MLOps for reinforcement learning.
 - [Berkeley Ray RLLib](https://github.com/ray-project/ray) - An open-source library for reinforcement learning that offers both high scalability and a unified API for a variety of applications.
 - [Berkeley Softlearning](https://github.com/rail-berkeley/softlearning) - A reinforcement learning framework for training maximum entropy policies in continuous domains.
+- [Cadence](https://github.com/muellerberndt/cadence) - A brain-inspired Python library for agents that learn from reward while they act, using eligibility traces and local plasticity instead of backpropagation. [Paper](https://philpapers.org/rec/MUECAP-2)
 - [Catalyst](https://github.com/catalyst-team/catalyst) - Accelerated DL & RL.
 - [ChainerRL](https://github.com/chainer/chainerrl) - A deep reinforcement learning library built on top of Chainer.
 - [DeepMind Acme](https://github.com/deepmind/acme) - A research framework for reinforcement learning.
