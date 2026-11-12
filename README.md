@@ -148,6 +148,11 @@ A curated list of awesome Deep Reinforcement Learning resources.
 - [NeurIPS 2019: MineRL Competition](http://minerl.io/competition/)
 - [NeurIPS 2019: Reconnaissance Blind Chess](https://rbc.jhuapl.edu/)
 - [NeurIPS 2019: Robot open-Ended Autonomous Learning](https://www.aicrowd.com/challenges/robot-open-ended-autonomous-learning-real)
+- [NeurIPS 2020: MineRL Competition](https://arxiv.org/abs/2101.11071)
+- [NeurIPS 2021: MineRL BASALT Competition on Learning from Human Feedback](https://arxiv.org/abs/2107.01969)
+- [NeurIPS 2021: MineRL Diamond Competition](https://arxiv.org/abs/2202.10583)
+- [NeurIPS 2022: MineRL BASALT Competition](https://arxiv.org/abs/2303.13512)
+- [NeurIPS 2025: PokéAgent Challenge](https://pokeagentchallenge.com/)
 - [Unity Obstacle Tower Challenge 2019](https://blogs.unity3d.com/2019/01/28/obstacle-tower-challenge-test-the-limits-of-intelligence-systems/)
 
 >Check [AICrowd](https://www.aicrowd.com) for the latest list of major RL competitions
